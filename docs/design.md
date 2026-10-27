@@ -1,4 +1,3 @@
-
 # 仅添加内存协议 (Append-Only Memory Protocol) 设计稿
 
 ## 1. 核心设计逻辑
