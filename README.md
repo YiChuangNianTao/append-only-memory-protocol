@@ -1,3 +1,5 @@
+- ✨ 新增核心代码模块：`persona.py`、`memory.py`、`companion.py` 与 `main.py`
+- 📝 新增核心架构设计文档：`docs/architecture.md`
 # Append-Only Memory Protocol
 
 一套面向长期陪伴型 AI 应用的追加式纯文本记忆档案方案。
